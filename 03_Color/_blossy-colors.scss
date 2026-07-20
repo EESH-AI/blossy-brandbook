@@ -1,0 +1,83 @@
+// ─────────────────────────────────────────────────────────────────────────
+// Blossy — colour tokens (SCSS)
+// Source of truth: src/app/globals.css in the blossy.ai app.
+// Single warm theme: cream paper, terracotta accent, pastel atmosphere.
+// ─────────────────────────────────────────────────────────────────────────
+
+// ── Brand accent — the one accent. Use sparingly; hierarchy needs one lead.
+$blossy-orange:        #E96A2E;
+$blossy-orange-deep:   #d85a1d;
+$blossy-orange-lift:   #f0824c; // gradients only
+
+// ── Logo / identity — mark, favicon, watermark ONLY.
+$blossy-logo-coral:    #FF9A6B;
+$blossy-logo-magenta:  #F2497E;
+$blossy-wordmark-ink:  #241B22;
+
+// ── Product surfaces
+$blossy-background:        #faf5ed;
+$blossy-surface:           #fffdf8;
+$blossy-surface-secondary: #f6efe1;
+$blossy-surface-hover:     #f0e8d8;
+
+// ── Borders
+$blossy-border:        #ebe1cf;
+$blossy-border-strong: #ddd0b8;
+$blossy-input-border:  #e1d4bd;
+
+// ── Text
+$blossy-text-primary:   #0a0a0a;
+$blossy-text-label:     #262626;
+$blossy-text-secondary: #525252;
+$blossy-text-muted:     #737373;
+$blossy-text-faint:     #a3a3a3;
+
+// ── Landing palette — the "beauty" set
+$blossy-cream:   #FAF4EC;
+$blossy-peach:   #F5C9A8;
+$blossy-blush:   #F9B1B1;
+$blossy-rose:    #F39BC8;
+$blossy-lilac:   #D8B6F2;
+$blossy-ink:     #1A1A1A;
+$blossy-ink-dim: #5A5550;
+$blossy-rule:    #E7DFD3;
+
+// ── Status: base / strong / surface / line
+$blossy-danger:          #b91c1c;
+$blossy-danger-strong:   #991b1b;
+$blossy-danger-surface:  #fef2f2;
+$blossy-danger-line:     #fecaca;
+
+$blossy-warning:         #b45309;
+$blossy-warning-strong:  #92400e;
+$blossy-warning-surface: #fffbeb;
+$blossy-warning-line:    #fde68a;
+
+$blossy-success:         #059669;
+$blossy-success-strong:  #047857;
+$blossy-success-surface: #ecfdf5;
+$blossy-success-line:    #a7f3d0;
+
+// ── Atmosphere — blob stops + the warm (never grey) shadow
+$blossy-blob-coral:  rgba(255, 138, 80, 0.55);
+$blossy-blob-rose:   rgba(244, 104, 158, 0.50);
+$blossy-blob-lilac:  rgba(186, 128, 240, 0.42);
+$blossy-shadow-warm: rgba(80, 50, 25, 0.20);
+
+// ── Gradients
+$blossy-gradient-brand:    linear-gradient(135deg, #d85a1d 0%, #E96A2E 50%, #f0824c 100%);
+$blossy-gradient-brand-90: linear-gradient(90deg, #E96A2E, #f0824c);
+$blossy-gradient-logo:     linear-gradient(135deg, #FF9A6B, #F2497E);
+$blossy-gradient-hero:     linear-gradient(180deg, transparent 0%, transparent 42%, #F5C9A8 72%, #F9B1B1 100%);
+$blossy-gradient-icon:     linear-gradient(135deg, #f7e2cc, #f1dcc2);
+
+// Convenience map for iteration
+$blossy-palette: (
+  "orange": $blossy-orange,
+  "cream":  $blossy-cream,
+  "peach":  $blossy-peach,
+  "blush":  $blossy-blush,
+  "rose":   $blossy-rose,
+  "lilac":  $blossy-lilac,
+  "ink":    $blossy-ink,
+);

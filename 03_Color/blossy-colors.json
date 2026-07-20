@@ -1,0 +1,77 @@
+{
+  "$schema": "https://design-tokens.org/schema.json",
+  "name": "Blossy",
+  "description": "Colour tokens for blossy.ai. Single warm theme: cream paper, terracotta accent, pastel atmosphere. Source of truth: src/app/globals.css",
+  "brand": {
+    "orange":      { "value": "#E96A2E", "type": "color", "description": "The brand terracotta — the one accent" },
+    "orangeDeep":  { "value": "#d85a1d", "type": "color", "description": "Deep end of the brand gradient" },
+    "orangeLift":  { "value": "#f0824c", "type": "color", "description": "Light end — gradients only" }
+  },
+  "logo": {
+    "coral":       { "value": "#FF9A6B", "type": "color", "description": "Mark gradient stop 0" },
+    "magenta":     { "value": "#F2497E", "type": "color", "description": "Mark gradient stop 1" },
+    "wordmarkInk": { "value": "#241B22", "type": "color", "description": "Plum-black wordmark on light grounds" },
+    "wordmarkOnDark": { "value": "#FFFFFF", "type": "color", "description": "Wordmark on dark/colour grounds" }
+  },
+  "surface": {
+    "background": { "value": "#faf5ed", "type": "color", "description": "Cream paper — app ground" },
+    "surface":    { "value": "#fffdf8", "type": "color", "description": "Warm white — cards" },
+    "secondary":  { "value": "#f6efe1", "type": "color", "description": "Warm sand" },
+    "hover":      { "value": "#f0e8d8", "type": "color" }
+  },
+  "border": {
+    "border":      { "value": "#ebe1cf", "type": "color" },
+    "strong":      { "value": "#ddd0b8", "type": "color" },
+    "inputBorder": { "value": "#e1d4bd", "type": "color" }
+  },
+  "text": {
+    "primary":   { "value": "#0a0a0a", "type": "color" },
+    "label":     { "value": "#262626", "type": "color" },
+    "secondary": { "value": "#525252", "type": "color" },
+    "muted":     { "value": "#737373", "type": "color" },
+    "faint":     { "value": "#a3a3a3", "type": "color" }
+  },
+  "landing": {
+    "cream":  { "value": "#FAF4EC", "type": "color" },
+    "peach":  { "value": "#F5C9A8", "type": "color" },
+    "blush":  { "value": "#F9B1B1", "type": "color" },
+    "rose":   { "value": "#F39BC8", "type": "color" },
+    "lilac":  { "value": "#D8B6F2", "type": "color" },
+    "ink":    { "value": "#1A1A1A", "type": "color" },
+    "inkDim": { "value": "#5A5550", "type": "color", "description": "Running text" },
+    "rule":   { "value": "#E7DFD3", "type": "color", "description": "Hairlines" }
+  },
+  "status": {
+    "danger":  {
+      "base":    { "value": "#b91c1c", "type": "color" },
+      "strong":  { "value": "#991b1b", "type": "color" },
+      "surface": { "value": "#fef2f2", "type": "color" },
+      "line":    { "value": "#fecaca", "type": "color" }
+    },
+    "warning": {
+      "base":    { "value": "#b45309", "type": "color" },
+      "strong":  { "value": "#92400e", "type": "color" },
+      "surface": { "value": "#fffbeb", "type": "color" },
+      "line":    { "value": "#fde68a", "type": "color" }
+    },
+    "success": {
+      "base":    { "value": "#059669", "type": "color" },
+      "strong":  { "value": "#047857", "type": "color" },
+      "surface": { "value": "#ecfdf5", "type": "color" },
+      "line":    { "value": "#a7f3d0", "type": "color" }
+    }
+  },
+  "atmosphere": {
+    "blobCoral": { "value": "rgba(255, 138, 80, 0.55)", "type": "color" },
+    "blobRose":  { "value": "rgba(244, 104, 158, 0.50)", "type": "color" },
+    "blobLilac": { "value": "rgba(186, 128, 240, 0.42)", "type": "color" },
+    "shadowWarm": { "value": "rgba(80, 50, 25, 0.20)", "type": "color", "description": "Brown-tinted shadow — never grey" }
+  },
+  "gradient": {
+    "brand":   { "value": "linear-gradient(135deg, #d85a1d 0%, #E96A2E 50%, #f0824c 100%)", "type": "gradient" },
+    "brand90": { "value": "linear-gradient(90deg, #E96A2E, #f0824c)", "type": "gradient" },
+    "logo":    { "value": "linear-gradient(135deg, #FF9A6B, #F2497E)", "type": "gradient" },
+    "hero":    { "value": "linear-gradient(180deg, transparent 0%, transparent 42%, #F5C9A8 72%, #F9B1B1 100%)", "type": "gradient" },
+    "icon":    { "value": "linear-gradient(135deg, #f7e2cc, #f1dcc2)", "type": "gradient" }
+  }
+}

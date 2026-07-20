@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Blossy blob field">
+  <defs>
+    <radialGradient id="c"><stop offset="0" stop-color="#FF8A50" stop-opacity="0.55"/><stop offset="1" stop-color="#FF8A50" stop-opacity="0"/></radialGradient>
+    <radialGradient id="r"><stop offset="0" stop-color="#F4689E" stop-opacity="0.50"/><stop offset="1" stop-color="#F4689E" stop-opacity="0"/></radialGradient>
+    <radialGradient id="l"><stop offset="0" stop-color="#BA80F0" stop-opacity="0.42"/><stop offset="1" stop-color="#BA80F0" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="#FAF4EC"/>
+  <circle cx="180" cy="140" r="420" fill="url(#c)"/>
+  <circle cx="1450" cy="260" r="380" fill="url(#r)"/>
+  <circle cx="760"  cy="820" r="460" fill="url(#l)"/>
+  <circle cx="1200" cy="700" r="300" fill="url(#c)"/>
+</svg>

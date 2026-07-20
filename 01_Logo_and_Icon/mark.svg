@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Blossy mark">
+  <defs>
+    <linearGradient id="prismWarm" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF9A6B"></stop>
+      <stop offset="1" stop-color="#F2497E"></stop>
+    </linearGradient>
+  </defs>
+  <g transform="translate(80 80)" fill="url(#prismWarm)" style="mix-blend-mode:multiply">
+    <circle cx="32" cy="0" r="30" opacity="0.55"></circle>
+    <circle cx="16" cy="27.7" r="30" opacity="0.55"></circle>
+    <circle cx="-16" cy="27.7" r="30" opacity="0.55"></circle>
+    <circle cx="-32" cy="0" r="30" opacity="0.55"></circle>
+    <circle cx="-16" cy="-27.7" r="30" opacity="0.55"></circle>
+    <circle cx="16" cy="-27.7" r="30" opacity="0.55"></circle>
+  </g>
+  <circle cx="80" cy="80" r="9" fill="#fff"></circle>
+</svg>

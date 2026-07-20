@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-label="Blossy typography specimen">
+<rect width="1200" height="1200" fill="#FAF4EC"/>
+<text x="60" y="78" font-family="Playfair Display,Georgia,serif" font-size="40" fill="#1A1A1A">Blossy — typography</text>
+<text x="60" y="108" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="13" letter-spacing="2" fill="#E96A2E">FIVE FACES · ONE JOB EACH</text>
+<text x="60" y="170" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="12" letter-spacing="1.6" fill="#5A5550">PLAYFAIR DISPLAY</text>
+<text x="1140" y="170" text-anchor="end" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="12" letter-spacing="1.4" fill="#E96A2E">DISPLAY · HEADINGS</text>
+<text x="60" y="232" font-family="Playfair Display,Georgia,serif" font-size="54" fill="#1A1A1A" >Look like yourself.</text>
+<text x="60" y="284" font-family="Playfair Display,Georgia,serif" font-size="34" font-style="italic" fill="#E96A2E">Editorial, on demand.</text>
+<text x="60" y="318" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="12" fill="#5A5550">All h1/h2/h3 · weight 400 only · letter-spacing −0.02em · token: font-fraunces</text>
+<line x1="60" y1="354" x2="1140" y2="354" stroke="#E7DFD3"/>
+<text x="60" y="408" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="12" letter-spacing="1.6" fill="#5A5550">FIGTREE</text>
+<text x="1140" y="408" text-anchor="end" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="12" letter-spacing="1.4" fill="#E96A2E">BODY · LANDING + AUTH</text>
+<text x="60" y="470" font-family="Figtree,Helvetica,Arial,sans-serif" font-size="38" fill="#1A1A1A" >Turn your selfies into a photoshoot.</text>
+<text x="60" y="522" font-family="Figtree,Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#1A1A1A">Regular</text>
+<text x="60" y="542" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="11" fill="#8b8378">400</text>
+<text x="250" y="522" font-family="Figtree,Helvetica,Arial,sans-serif" font-size="26" font-weight="500" fill="#1A1A1A">Medium</text>
+<text x="250" y="542" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="11" fill="#8b8378">500</text>
+<text x="440" y="522" font-family="Figtree,Helvetica,Arial,sans-serif" font-size="26" font-weight="600" fill="#1A1A1A">SemiBold</text>
+<text x="440" y="542" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="11" fill="#8b8378">600</text>
+<text x="630" y="522" font-family="Figtree,Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#1A1A1A">Bold</text>
+<text x="630" y="542" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="11" fill="#8b8378">700</text>
+<text x="60" y="574" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="12" fill="#5A5550">SIL OFL · via Google Fonts · variable weight 300–900 · token: font-inter</text>
+<line x1="60" y1="610" x2="1140" y2="610" stroke="#E7DFD3"/>
+<text x="60" y="664" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="12" letter-spacing="1.6" fill="#5A5550">GEIST</text>
+<text x="1140" y="664" text-anchor="end" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="12" letter-spacing="1.4" fill="#E96A2E">BODY · THE PRODUCT UI</text>
+<text x="60" y="726" font-family="Geist,Helvetica,Arial,sans-serif" font-size="34" fill="#1A1A1A" >Your dashboard, credits &amp; photoshoots.</text>
+<text x="60" y="760" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="12" fill="#5A5550">Default UI sans behind login · applied implicitly via --font-sans</text>
+<line x1="60" y1="796" x2="1140" y2="796" stroke="#E7DFD3"/>
+<text x="60" y="850" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="12" letter-spacing="1.6" fill="#5A5550">GEIST MONO</text>
+<text x="1140" y="850" text-anchor="end" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="12" letter-spacing="1.4" fill="#E96A2E">STRUCTURE · KICKERS · DATA</text>
+<text x="60" y="912" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="32" fill="#1A1A1A" >1,240 credits · &#8364;18.00</text>
+<text x="60" y="956" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="15" letter-spacing="3" fill="#E96A2E">EDITORIAL AI PHOTOSHOOTS OF YOU</text>
+<text x="60" y="990" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="12" fill="#5A5550">Eyebrows (uppercase, tracked .12–.22em) and tabular data</text>
+<line x1="60" y1="1026" x2="1140" y2="1026" stroke="#E7DFD3"/>
+<text x="60" y="1080" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="12" letter-spacing="1.6" fill="#5A5550">OUTFIT</text>
+<text x="1140" y="1080" text-anchor="end" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="12" letter-spacing="1.4" fill="#E96A2E">WORDMARK ONLY</text>
+<text x="60" y="1142" font-family="Outfit,Helvetica,Arial,sans-serif" font-size="54" fill="#1A1A1A" font-weight="600" letter-spacing="-1.6">blossy</text>
+<text x="60" y="1176" font-family="Geist Mono,DejaVu Sans Mono,monospace" font-size="12" fill="#5A5550">Reserved for the logotype · never used for running copy</text>
+</svg>
